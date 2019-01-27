@@ -1,0 +1,25 @@
+{
+	"name": "eslint-sandboxed",
+	"version": "0.1.0",
+	"description": "ESLint in a seccomp sandbox",
+	"keywords": [
+		"lint"
+	],
+	"bugs": "https://github.com/charmander/eslint-sandboxed/issues",
+	"license": "ISC",
+	"author": {
+		"name": "Charmander",
+		"email": "~@charmander.me",
+		"url": "https://charmander.me/"
+	},
+	"files": [
+		"cli.js"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/charmander/eslint-sandboxed"
+	},
+	"devDependencies": {
+		"eslint": "5.12.1"
+	}
+}

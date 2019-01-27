@@ -1,0 +1,4 @@
+/node_modules/
+
+/build/seccomp.node
+/eslint.bundle
